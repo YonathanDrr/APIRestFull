@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{C1BCA56F-7961-4AFA-9A8F-6D80CD90E4A7}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ejercicio2/Servicios/ProductoServicio.cs">
+    <Files>
+      <File FileName="Ejercicio2/Models/Producto.cs" Line="15" Column="1" />
+      <File FileName="Ejercicio2/Servicios/ProductoServicio.cs" Line="22" Column="7" />
+      <File FileName="Ejercicio2/Program.cs" Line="10" Column="1" />
+      <File FileName="Ejercicio2/Controllers/ProductosController.cs" Line="30" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ejercicio2" expanded="True">
+            <Node name="Ejercicio2" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Servicios" expanded="True">
+                <Node name="ProductoServicio.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ejercicio2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
